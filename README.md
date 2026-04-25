@@ -58,8 +58,6 @@ Answered key business questions:
 - Discount dependency analysis  
 - Shipping type spend comparison  
 
-:contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 📊 Power BI Dashboard
