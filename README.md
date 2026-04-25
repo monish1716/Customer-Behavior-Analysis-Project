@@ -69,7 +69,6 @@ Built an interactive dashboard to track:
 - Discount trends  
 - Subscription insights  
 
-:contentReference[oaicite:2]{index=2}
 
 ---
 
