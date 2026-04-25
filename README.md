@@ -34,7 +34,6 @@ This project uses data to generate actionable business recommendations.
 - **18 Columns**
 - Customer demographics, purchases, ratings, shipping, discounts, subscriptions
 
-:contentReference[oaicite:0]{index=0}
 
 ---
 
