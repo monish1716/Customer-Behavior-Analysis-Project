@@ -71,7 +71,7 @@ group by category, item_purchased
 
 select item_rank, category, item_purchased, total_orders
 from item_counts
-where feitem_rank <= 3; 
+where item_rank <= 3; 
 
 -- Q9. Are customers who are repeat buyers (more than 5 previous purchases) also likely to subscribe?
 select subscription_status,
