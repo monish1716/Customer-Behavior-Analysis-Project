@@ -77,7 +77,10 @@ Built an interactive dashboard to track:
 - Customer segments  
 - Product performance  
 - Discount trends  
-- Subscription insights  
+- Subscription insights
+
+![Dashboard Screenshot](images/dashboard.png)
+
 
 
 ---
