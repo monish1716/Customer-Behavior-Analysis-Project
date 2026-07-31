@@ -4,6 +4,19 @@ An end-to-end **Data Analytics Project** using **Python, SQL, Power BI, and Busi
 
 ---
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas)](https://pandas.pydata.org/)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+![SQL](https://img.shields.io/badge/Language-SQL-green)
+[![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?logo=github)
+![CSV](https://img.shields.io/badge/Data-CSV-orange)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blueviolet)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-success)
+
+---
+
 ## 📌 Business Problem Statement
 
 A retail company wants to improve revenue, customer retention, and product strategy but lacks insights into:
